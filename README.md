@@ -215,9 +215,6 @@ predict_image(model, image_index=18, dataset=test_dataset)
 
 <img width="608" height="589" alt="DP3 4" src="https://github.com/user-attachments/assets/e8930b72-ef0f-40c6-8ede-11b7212607d2" />
 
-
-# Result
-   The Convolutional Neural Network (CNN) model was successfully trained and achieved good classification performance on the given image dataset. Include your result here
 ## RESULT
 The Convolutional Neural Network (CNN) model was successfully trained and achieved good classification performance on the given image dataset.
-Include your result here
+
