@@ -15,6 +15,8 @@ The objective of this project is to create a CNN that can categorize images of f
 The CNN consists of multiple convolutional layers with activation functions, followed by pooling layers, and ends with fully connected layers to output predictions for all 10 categories.
 
 ## Neural Network Model
+<img width="959" height="433" alt="dp3 1 (2)" src="https://github.com/user-attachments/assets/ca98d4ce-65d5-42ab-b25a-f7c3f63eab61" />
+
 
 
 ## DESIGN STEPS
